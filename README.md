@@ -1,4 +1,6 @@
 # Sidemark Front-End
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fteam-chiru%2Fsidemark-front.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fteam-chiru%2Fsidemark-front?ref=badge_shield)
+
 Prototype of Likemark client from scratch with Webpack + React + MobX + SemanticUI
 
 ## Contributing
@@ -10,3 +12,7 @@ Prototype of Likemark client from scratch with Webpack + React + MobX + Semantic
 4. Start the **webpack server** with `yarn start` or build it with `yarn build`
 5. You should debug the project with the associated **Visual Studio Code** configuration
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fteam-chiru%2Fsidemark-front.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fteam-chiru%2Fsidemark-front?ref=badge_large)
